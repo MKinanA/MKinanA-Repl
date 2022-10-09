@@ -1,0 +1,109 @@
+$tts.mp3
+a zip.azip
+aplikasi cuaca kinan (weather 3.0).py
+Assalamualaikum {input}.py
+attributes
+belajar_phyton1.py
+bikin_word_dari_excel.py
+bikin_word_dari_excel_2.py
+blank.ico
+blank.png
+blankimagedecoder.py
+build
+cft.py
+clicker.py
+clicker.spec
+ClickerGameSaveBackups
+clicker_1_0.py
+clicker_1_0.spec
+clicker_1_0_1.py
+clicker_dailygift.py
+clicker_datamanager.py
+clicker_iconimageb64decoder.py
+clicker_loggers.py
+coba.py
+coba.spec
+coba2.py
+desktop.ini
+dist
+e.txt
+files_scanner.py
+free robux generator REAL amogus 3 am susy trolololo
+free.spec
+free_robux_generator_.v.py
+free_robux_generator_.v.spec
+get_ip_geolocation.py
+google drive api quickstart
+google search.py
+gsnr.py
+gui calculator.py
+icon.ico
+ip geolocations
+ip geolocations180.242.130.246 (ip geolocation) 20220808160600153032.json
+Islamic_Prayer_Reminder.py
+Islamic_Prayer_Reminder.spec
+jsons
+Kalkulator Sederhana (lagi).py
+Kalkulator Sederhana v2.py
+Kalkulator Sederhana.py
+listdirs.py
+logger.py
+loop de infinita absoluta.py
+loop de infinita.py
+making a module test.py
+mkina (user files) 20220902050316283795.txt
+mkina (user files) 20220902061644548957.txt
+mkina (user files) 20220915224814615012.txt
+mkina (user files) 20220916053151448511.txt
+mkina (user files) 20220916053203264791.txt
+MKinanApp.py
+modules
+None.py
+Nyoba if statement.py
+packages
+projects
+python-3.10.2-amd64.exe
+read json test.py
+real-time_live_shared_text_editor.py
+real-time_live_shared_text_editor.spec
+Reminder_Notification.py
+savedata
+simple gui clock.py
+test string part thing.py
+texts
+text_to_speech.py
+trollface.jpeg
+trollface.png
+trollface.py
+trollfaceimagedecoder.py
+trololololo.py
+trying kivy.py
+untitled.py
+uploader.py
+user information data recorder malware.py
+virus.spec
+virus_gg_.v.py
+virus_kerenv.spec
+virus_keren_.v.py
+virus_keren_.v.spec
+weather 1.1.py
+weather 1.2.py
+weather 1.3.py
+weather 1.4.1.py
+weather 1.4.py
+weather 1.5.1 x.py
+weather 1.5.2.py
+weather 1.5.py
+weather 1.6.1.py
+weather 1.6.py
+weather 1.7.1 x.py
+weather 1.7.2 x.py
+weather 1.7.3 x.py
+weather_1.7.py
+xlsx_to_docx_1_0.py
+xlsx_to_docx_alpha.py
+xlsx_to_docx_app_alpha.py
+xlsx_to_docx_app_alpha.spec
+xlsx_to_docx_app_beta.py
+xlsx_to_docx_beta.py
+__pycache__
